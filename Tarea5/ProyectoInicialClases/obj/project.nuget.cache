@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "frSoiglSG+qmn4yGbeq3KPTsmsaV9wI974JVttX15x45PJu0BguQTp1+m4KTcgYj2mOBbL3GPYkGdrKoMxbhAA==",
+  "success": true,
+  "projectFilePath": "F:\\Escritorio\\2DAM\\DAD\\ut5\\Tarea5 Acoidán y Aythami\\Tarea5\\ProyectoInicialClases\\ProyectoInicialClases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acoidán Santana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acoidán Santana\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
